@@ -486,8 +486,8 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Khan\Desktop\ang new fresh\yellow\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! C:\Users\Khan\Desktop\ang new fresh\yellow\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! C:\Users\Khan\Desktop\New folder\newone\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\Khan\Desktop\New folder\newone\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
 
 
 /***/ })
