@@ -9,4 +9,10 @@ import { Component } from '@angular/core';
   title = 'yellow';
 
   arrayde=["nana","nani","anty","mama"]
+
+  copyInputMessage(inputElement){
+    inputElement.select();
+    document.execCommand('copy');
+    inputElement.setSelectionRange(0, 0);
+  }
 }
